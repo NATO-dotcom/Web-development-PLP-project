@@ -4,17 +4,14 @@
 🧠 Project Title:
 Dinar Nato's Portfolio Website
 
-🌐 Live Link :
-https://nato-dotcom.github.io/Web-development-PLP-project/
-
 🎯 Project Overview:
 This project is a personal portfolio website built to showcase my skills, projects, interests, and educational background as a data science student and aspiring software developer. It serves as a professional hub to introduce myself, highlight my ongoing work, and allow potential collaborators, recruiters, or mentors to reach out.
 
 🧩 Key Features:
-Modern Responsive Design
-Smooth Navigation
-Custom Sections:
-  - Hero (introduction)
+*Modern Responsive Design
+*Smooth Navigation
+*Custom Sections:
+  - Hero Section(introduction)
   - About Me
   - Skills
   - Education
@@ -22,8 +19,8 @@ Custom Sections:
   - Projects
   - Contact Form
   - Footer with social links
-Animated Elements
-Professional Aesthetics
+*Animated Elements
+*Professional Aesthetics
 
 💻 Tech Stack:
 HTML5        -  Structure and layout of the website 
@@ -54,6 +51,9 @@ The website is hosted using GitHub Pages, a reliable platform for serving static
  -Within the repository’s Settings, under the Pages section, the source was configured to use the main branch with the root directory.
  -Upon saving the configuration, GitHub Pages generated a public URL, making the website accessible online.
  -Subsequent updates to the repository are automatically reflected on the live site following each push.
+
+ 🌐 Live Link :
+https://nato-dotcom.github.io/Web-development-PLP-project/
 
 🧪 Future Improvements:
 - Add email functionality to contact form
