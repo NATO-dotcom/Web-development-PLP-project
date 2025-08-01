@@ -1,5 +1,5 @@
 
-# 🚀 NATO-dotcom - Portfolio Website
+# 🚀 Dinar Nato's - Portfolio Website
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://nato-dotcom.github.io/Web-development-PLP-project/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#)
