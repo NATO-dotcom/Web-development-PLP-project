@@ -34,15 +34,15 @@ VS Code      -  Code editor used for development
 📦 Folder Structure:
 
 portfolio-website
-├── index.html
-├── style.css
-├── favicon.jpeg
-├── nato 2.jpg
-├── Resume.pdf
+|─ index.html
+├─ style.css
+├─ favicon.jpeg
+├─ nato 2.jpg
+├─ Resume.pdf
 
 🛠️ How It Works:
 - Navigation bar with smooth scroll
-- Hero section with intro and CTA
+- Hero section with introduction and Call-to-Action
 - About and Skills with responsive cards
 - Projects and Interests highlighted
 - Functional contact form layout
